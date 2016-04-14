@@ -1,0 +1,9 @@
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\bin\Debug\SearcherProject.exe.config
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\bin\Debug\SearcherProject.exe
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\bin\Debug\SearcherProject.pdb
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\obj\Debug\SearcherProject.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\obj\Debug\SearcherProject.Form1.resources
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\obj\Debug\SearcherProject.Properties.Resources.resources
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\obj\Debug\SearcherProject.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\obj\Debug\SearcherProject.exe
+C:\Users\Matheus\Desktop\DeskTop\Projetos\SearcherProject\SearcherProject\SearcherProject\obj\Debug\SearcherProject.pdb
